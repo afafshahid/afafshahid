@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6584&height=220&section=header&text=Afaf%20Shahid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%2B%20AI%2FML%20Engineer&descAlignY=55&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Turning+research+into+real+software+%F0%9F%A7%A0;Bayesian+inference+%E2%80%A2+Geospatial+ML+%E2%80%A2+Full-Stack;125-disease+triage+engines%2C+built+from+scratch;CS+%40+FAST-NUCES+Karachi+%7C+Class+of+2027" alt="Typing SVG" />
+/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=820&lines=Turning+research+into+real+software+%F0%9F%A7%A0;Bayesian+inference+%E2%80%A2+Geospatial+ML+%E2%80%A2+Full-Stack;125-disease+triage+engines%2C+built+from+scratch;CS+%40+FAST-NUCES+Karachi+%7C+Class+of+2027" alt="Typing SVG" />
 
 <br/>
 
