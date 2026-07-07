@@ -123,10 +123,6 @@ class Afaf:
 <img src="https://streak-stats.demolab.com/?user=afafshahid&theme=tokyonight&hide_border=true" width="38%" />
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afafshahid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
-<img src="https://github-profile-trophy.vercel.app/?username=afafshahid&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" width="45%" />
-
 </div>
 
 <br/>
@@ -139,8 +135,6 @@ class Afaf:
 <img src="https://raw.githubusercontent.com/afafshahid/afafshahid/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
-
-> 💡 **Setup note:** this snake renders automatically once you add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to a workflow in this repo — it eats your contribution graph daily and commits the SVG to an `output` branch. Takes about 5 minutes and is the single highest "how did you do that" line on this whole page.
 
 <br/>
 
