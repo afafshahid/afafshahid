@@ -16,7 +16,7 @@
 
 ## ⚡ The Short Version
 
-I build things that touch messy, real-world problems — an ER doesn't have time for a laggy triage form, and a drought doesn't wait for clean data. So I spend most of my time at the seam between **shipping production software** and **making the math underneath it actually correct.**
+I build things that touch messy, real-world problems an ER doesn't have time for a laggy triage form, and a drought doesn't wait for clean data. So I spend most of my time at the seam between **shipping production software** and **making the math underneath it actually correct.**
 
 ```python
 class Afaf:
@@ -39,8 +39,8 @@ class Afaf:
 <td width="50%" valign="top">
 
 ### 🩺 [SehatYaab](https://github.com/afafshahid/SehatYaab)
-**The problem:** emergency blood matching and medicine pricing in Pakistan are opaque and slow — sometimes fatally so.
-**What I built:** a role-based platform (patient / doctor / hospital / pharmacy) with real-time Firestore sync and Gemini 1.5 Flash doing structured symptom triage — severity scoring **and** specialist routing, not just a chatbot reply.
+**The problem:** emergency blood matching and medicine pricing in Pakistan are opaque and slow, sometimes fatally so.
+**What I built:** a role-based platform (patient / doctor / hospital / pharmacy) with real-time Firestore sync and Gemini 1.5 Flash doing structured symptom triage, severity scoring **and** specialist routing, not just a chatbot reply.
 
 `React` `TypeScript` `Express.js` `Firebase`
 
@@ -48,7 +48,7 @@ class Afaf:
 <td width="50%" valign="top">
 
 ### 🧠 [Bayesian Medical Triage Engine](https://github.com/afafshahid/Bayesian-Medical-Triage-System)
-**The problem:** naive probability chains across 125 diseases underflow to zero — the math silently breaks.
+**The problem:** naive probability chains across 125 diseases underflow to zero, the math silently breaks.
 **What I built:** a from-scratch Bayesian inference engine rebuilt entirely in **log-space with log-sum-exp**, so probabilities stay numerically stable no matter how deep the chain gets.
 
 `Python` `Flask` `React`
@@ -69,7 +69,7 @@ class Afaf:
 
 ### 💊 Pharmora
 **The problem:** pharmacies juggle five different user roles on paper or spreadsheets.
-**What I built:** a full pharmacy OS — 5 dashboards, JWT auth, live inventory/cart sync via Supabase, and a Figma-to-Tailwind pipeline fast enough to keep design and code in lockstep.
+**What I built:** a full pharmacy OS: 5 dashboards, JWT auth, live inventory/cart sync via Supabase, and a Figma-to-Tailwind pipeline fast enough to keep design and code in lockstep.
 
 `React` `Vite` `Supabase` `TailwindCSS`
 
@@ -81,13 +81,13 @@ class Afaf:
 <summary><b>🎮 More things I've shipped (click to expand)</b></summary>
 <br/>
 
-**📄 [AI Resume Screener](https://github.com/afafshahid/AI-Resume-Screener)** — Llama 3 + FastAPI, semantic-matches and ranks resumes against job descriptions with batch inference.
+**📄 [AI Resume Screener](https://github.com/afafshahid/AI-Resume-Screener)**: Llama 3 + FastAPI, semantic-matches and ranks resumes against job descriptions with batch inference.
 
-**🎤 [Mock Interview Coach](https://github.com/afafshahid/Mock-Interview-Coach)** — an AI-driven space to practice interviews before the real one has stakes.
+**🎤 [Mock Interview Coach](https://github.com/afafshahid/Mock-Interview-Coach)**: an AI-driven space to practice interviews before the real one has stakes.
 
-**🚀 [Orbit X](https://github.com/afafshahid/orbit-x)** — a space-travel booking platform with seat selection, QR boarding passes, and simulated payments, because why should airlines have all the fun.
+**🚀 [Orbit X](https://github.com/afafshahid/orbit-x)**: a space-travel booking platform with seat selection, QR boarding passes, and simulated payments, because why should airlines have all the fun.
 
-**🧪 [ML Mini-Projects](https://github.com/afafshahid/ML-mini-projects)** — stock prediction, house pricing, heart disease classification, and a health chatbot — the reps that built the fundamentals.
+**🧪 [ML Mini-Projects](https://github.com/afafshahid/ML-mini-projects)**: stock prediction, house pricing, heart disease classification, and a health chatbot — the reps that built the fundamentals.
 
 </details>
 
@@ -139,9 +139,9 @@ class Afaf:
 
 ## 🌱 Beyond the Code
 
-- 👩‍💻 **VP, ACM-Women @ FAST-NUCES** — built EmpowerFest from zero, the first women-led tech event on campus
-- 🎨 **Assistant Director Branding, PROCOM '26** — ran brand identity for one of Pakistan's largest student-run computing conferences
-- 🧪 **Software Engineering Fellow @ Headstarter** — shipped 3 AI-integrated apps in 7 weeks, real deadlines, real peer reviews
+- 👩‍💻 **VP, ACM-Women @ FAST-NUCES**: built EmpowerFest from zero, the first women-led tech event on campus
+- 🎨 **Assistant Director Branding, PROCOM '26**: ran brand identity for one of Pakistan's largest student-run computing conferences
+- 🧪 **Software Engineering Fellow @ Headstarter**: shipped 3 AI-integrated apps in 7 weeks, real deadlines, real peer reviews
 - 🤖 Certified in Data Science (IBM), Azure AI Fundamentals (Microsoft), Responsible AI (Google Cloud), and Frontend Development (Meta)
 
 <br/>
